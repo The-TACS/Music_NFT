@@ -1,3 +1,6 @@
+![Screenshot 2024-08-08 221343](https://github.com/user-attachments/assets/b754f1f8-97c4-466e-ac6a-33704336b326)
+![Screenshot 2024-08-08 221240](https://github.com/user-attachments/assets/b9de66d6-8cc6-4154-a941-32c89a73859a)
+![Screenshot 2024-08-08 221214](https://github.com/user-attachments/assets/c41400c7-41a5-4a94-ac0a-566093c84840)
 # NFT Music Player
 
 ## Technology Stack & Tools
